@@ -1,4 +1,4 @@
 [submodule "NativeRepo"]
 	path = NativeRepo
 	url = https://github.com/MstyslavS/NativeRepo.git
-	tag = v0.1
+	#tag = v0.1 Git doesn't track a tag only branches
