@@ -3,4 +3,4 @@ using NativeLib;
 
 Console.WriteLine("Main repo: Hello, World!");
 NativeClass native = new NativeClass();
-native.HelloWord();
+native.HelloWorld();
